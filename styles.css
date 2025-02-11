@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    font-family: "Roboto", serif;
+}
+
+.container {
+    background-color: white;
+    width: 30%;
+    margin-top: 50px;
+}
+
+nav {
+    max-width: 100%;
+    height: 50px;
+    display: flex;
+    margin: 5px;
+}
+h5 {
+    margin: 5px 0px;
+}
+
+img {
+    width: 100%;
+    height: 300px;
+}
+
+.containerBajo {
+    margin: 10px;
+}
+
+.containerIconos {
+    height: 50px;
+    display: flex;
+}
+
+i {
+    font-size: 30px;
+    margin: 5px;
+}
+
+.moverDerecha {
+    margin-left: auto;
+}
+
